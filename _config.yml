@@ -12,10 +12,10 @@ mode: dark # default theme "dark" | "light"
 author:
   name: MikeB
   bio: >-
-    My first github webpage, where I'll chronicle my nab learning journey
+    YAGP - Yet another Github page that chronicles my preperation for LPIC, learning python and other things I'm trying to 'do somewhat properly' for the first time.
   username: mikebdict
   email: mike.bland.dict@gmail.com
-  avatar: /assets/img/avatar.jpg
+  avatar: /assets/img/mikebraven.jpg
 
 # Url settings
 url: "https://mikebdict.github.io"

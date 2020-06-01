@@ -1,18 +1,20 @@
 ---
-title: Colophon
+title: I 🤔 therefore I 🥱
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Sup! Why is this page here?
 comments: false
 ---
+##### Why is this page here?
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Im an IT support guy 💾 who has some how managed to not formalise a lot of their skills properly until now. 
 
-If you have a question about him or else, just send a letter to him.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+##### Maybe this is usefull somehow?
 
-##### may u needs ✨
+I've started this blog beacuse, despite useing other peoples scripts and IT creations for at least 10 years, Ive never taken the time to understand many of them fully. Perhaps my chronicleing of this journey might prove useful to some. Oh, I might also learn a bit about Ruby and stuff whilst doing so. 
+
+##### Say hello.
 
 - {{ site.author.email }}
 - github.com/{{ site.author.username }}

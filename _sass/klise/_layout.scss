@@ -319,4 +319,18 @@
   .solution:hover {
     color: $text-link-blue-active;
   }
+  .notfoundimg {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    user-select: none;
+    background-color: $black;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -webkit-animation: 0.5s ease-in forwards fadein;
+    animation: 0.5s ease-in forwards fadein;
+    opacity: 1;
+
+  }
 }
+

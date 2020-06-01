@@ -1,0 +1,14 @@
+---
+layout: default_no_author
+post_index: true
+---
+<h4 class="posts-item-note">Full post index</h4>
+<h4 class="posts-item-note">Personal</h4>
+{% for post in site.categories.Personal %}
+<article class="post-item">
+  <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
+  <h4 class="post-item-title">
+    <a href="{{ post.url }}">{{ post.title | escape }}</a>
+  </h4>
+</article>
+{% endfor %}

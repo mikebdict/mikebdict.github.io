@@ -4,11 +4,13 @@ home: true
 ---
 
 <h4 class="posts-item-note">Recent Posts</h4>
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
 <article class="post-item">
   <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
   <h4 class="post-item-title">
     <a href="{{ post.url }}">{{ post.title | escape }}</a>
   </h4>
-</article>
+  <span class="post-item-tag-cat"><i>&nbsp;&nbsp;📖{{ post.categories }} 🔖 {{ post.tags | join: ' '  }}</i>
+  </span>
+  </article>
 {% endfor %}

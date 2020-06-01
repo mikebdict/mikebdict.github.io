@@ -1,13 +1,10 @@
 ---
-title: Acknowledgment
-permalink: /thanks/
+title: Give_gold 🥇
+permalink: /rep/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+excerpt: Have a cow, man.
 comments: false
 ---
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
-
-<hr>
-
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
+Cheers to everyone who helps me along the way, you know who you are. x
+<br>Thanks to the theme author for this awesome template, <a href="https://github.com/piharpi/">piharpi</a> (that I have probably implemented badly somehow 🤔)
