@@ -1,10 +1,10 @@
 # Site settings
 title: Mikebdict
 description: >-
-  Yet another nab Github website.
+  Mikeb's Linux & Python page
 lang: en-GB
 timezone: Europe/London
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/404.jpg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/mikebdict/mikebdict.github.io
 mode: dark # default theme "dark" | "light"
 
