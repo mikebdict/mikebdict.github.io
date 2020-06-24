@@ -11,6 +11,8 @@ I've been trying to up my bash game over the last few months and thought Id expl
 
 Ive never really played around with AWK that much before. In the past when ever I've needed to do some regex or something like that I'd use perl (or more specifically some one elses Perl that I would then basterdise 👀). After reading up on it, I realise how powerful it is and that its greatest strong point is that so many of the considerations that you might have when useing something like perl are moot. AWK is pretty much installed everywhere, so you just dont have to worry.
 
+---
+
 The AWK part of the script was fairly easy to implement, just a little bit of testing to find out the right part of my ls / find output for the substring command to latch on to.
 
 ```bash
@@ -49,12 +51,3 @@ gorby ALL=(root) NOPASSWD:/bin/ln -s /usr/bin/python3.6m /usr/bin/python
 Part of LPIC's sylabus requires you to be familiar with vim. If your preping up for it, Id recommend changeing your default editor as is outlined in that help article. Even if your just getting used to basic opperations that changeing your default will enable its gonna help. 
 
 You might end up being the millionth person who googles how to exit vim, but, dont fret ;)
-
-
-
-
-
-
-
-
-
