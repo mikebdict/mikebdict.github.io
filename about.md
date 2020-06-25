@@ -16,5 +16,6 @@ I've started this blog beacuse, despite useing other peoples scripts and IT crea
 
 ##### Say hello.
 
-- {{ site.author.email }}
-- github.com/{{ site.author.username }}
+- [{{ site.author.email }}](mailto:mike.bland.dict+mikebuk@gmail.com)
+- [github.com/{{ site.author.username }}](https://github.com/mikebdict)
+- [twitter.com/mikebdict](https://twitter.com/mikebdict)
