@@ -15,7 +15,7 @@ I decided to make the program in two parts, one to grab the codes from a website
 
 ##### The Scraper
 [uk_phonecodes_BS.py](https://github.com/mikebdict/phonecodedistance/blob/master/uk_phonecodes_BS.py)
-I've been a bit lazy with the textdata and td2 loops - I'm sure there is a more eloquent way of doing that all in the same loop but I was having issues. I think I’ll make a stack overflow account soon so I can find out how I'm asking google the wrong questions… 🥺 I tried saving the area code td’s in a separate list using the append method then using extend later in the same loop, but the resulting list would have separate entries for the code and the rest of the data. I'll probably come back and smarten it up in the future, but, I want to press ahead with other things.
+I've been a bit lazy with the textdata loop - I'm sure there are a ways to do that in fewer lines , which bugs me, but Ill probably return later to find out how I'm asking google the wrong questions… 🥺  I'll probably come back and smarten it up in the future, but, I want to press ahead with other things.
 
 ##### The code matcher
 [phonecodedistance](https://github.com/mikebdict/phonecodedistance/blob/master/codes2_cords.py)
