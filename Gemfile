@@ -26,5 +26,4 @@ group :jekyll_plugins do
   gem 'jekyll-compose'
   gem 'jekyll-postfiles', '~> 3.0'
   gem 'rouge', '3.3.0'
-  gem 'kramdown'
 end

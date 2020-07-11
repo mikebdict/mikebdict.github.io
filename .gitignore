@@ -4,3 +4,4 @@ _site/
 .jekyll-metadata
 _drafts
 Gemfile.lock
+LPIC 1/101-500/_posts/generate_toc.sh
